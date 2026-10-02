@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(117, 68, 68);
+
+    color: beige;
+    color: rgb(255, 255, 255);
+    color: hsl(0, 49%, 47%);
+    color: hwb(0 65% 3%);
+    color: #804343;
+    color: lch(44.73% 27.33 23.25);
+
+
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
